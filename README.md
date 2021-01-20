@@ -17,3 +17,4 @@ Feature selection i use Filter and Wrapper technique for Filter i use chi square
 I used different machine learning classification alhgorithm like Logistic Regression, K-NN, Support Vector Machine, Navie Bayes, Random Forest, Voting Classifier and XGBOOST.
 Among that XGBOOST performed the Best.
 ## Ranking
+![Lb copy](https://user-images.githubusercontent.com/37806570/105203387-0f38b380-5b69-11eb-9516-1696746bc3b8.jpg)
